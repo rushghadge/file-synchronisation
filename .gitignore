@@ -1,0 +1,6 @@
+/out/
+/file-sync.iml
+/.idea/
+
+# Project exclude paths
+/target/
